@@ -1,5 +1,5 @@
 # 👋 I'm Sergio
-### Full Stack Developer 
+### Backend Developer 
 
 The stacks where my job experience are at:
 
