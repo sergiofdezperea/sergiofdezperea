@@ -15,7 +15,7 @@ I love 💖 clean readable code that is easy to modify, as i believe it is funda
 
 
 ## Contact
-📫 You cat reach me: <a href="mailto:sergiofdezperea@gmail.com">sergiofdezperea@gmail.com</a>
+📫 You can reach me: <a href="mailto:sergiofdezperea@gmail.com">sergiofdezperea@gmail.com</a>
 
 [![Link](https://img.shields.io/badge/Link_Site-sergiofdezperea-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://sergiofdezperea.github.io/)
 
