@@ -2,11 +2,11 @@
 ### Backend Developer 
 
 The stacks where my job experience are at:
-
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]() 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-SQL [![SQL Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)]()
+[![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)]()
 
 ## About me
 I love 💖 clean readable code that is easy to modify, as i believe it is fundamental for the development of quality software.
@@ -16,10 +16,11 @@ I love 💖 clean readable code that is easy to modify, as i believe it is funda
 
 ## Contact
 📫 You can reach me: <a href="mailto:sergiofdezperea@gmail.com">sergiofdezperea@gmail.com</a>
-
+<!--
 [![Link](https://img.shields.io/badge/Link_Site-sergiofdezperea-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://sergiofdezperea.github.io/)
+-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Fdez_Perea-6F42C1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-fernandez-perea)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Fdez_Perea-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-fernandez-perea)
 
 <!--
 **sergiofdezperea/sergiofdezperea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
